@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nevernoterestapi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="nevernoterestapi.war">
+      <element id="artifact" artifact-name="nevernoterestapi:war exploded" />
+    </root>
+  </artifact>
+</component>

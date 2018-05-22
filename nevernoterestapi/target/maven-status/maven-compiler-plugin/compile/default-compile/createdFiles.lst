@@ -1,0 +1,13 @@
+com\nevernote\nevernoterestapi\services\impl\NotebookServiceImpl.class
+com\nevernote\nevernoterestapi\services\NotebookService.class
+com\nevernote\nevernoterestapi\services\NoteService.class
+com\nevernote\nevernoterestapi\controller\wrappers\NoteWrapper.class
+com\nevernote\nevernoterestapi\repository\NoteRepository.class
+com\nevernote\nevernoterestapi\controller\wrappers\NotebookWrapper.class
+com\nevernote\nevernoterestapi\model\Notebook.class
+com\nevernote\nevernoterestapi\controller\NoteController.class
+com\nevernote\nevernoterestapi\model\Note.class
+com\nevernote\nevernoterestapi\model\Tag.class
+com\nevernote\nevernoterestapi\NoteApplication.class
+com\nevernote\nevernoterestapi\controller\NotebookController.class
+com\nevernote\nevernoterestapi\repository\NotebookRepository.class
